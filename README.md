@@ -1,6 +1,9 @@
 ## Hi there, welcome to the port 823, where I interact with the world. 👋
 - 🔭 I’m currently working on AI Agents & Unified Models, and these are also what I'm currently learning.
 
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=E0BBE4,957DAD,D291BC,FFC72C,DA2C7F&theme=graywhite" />
+</div>
 
 <!--
 **burgerIO-823/burgerIO-823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
