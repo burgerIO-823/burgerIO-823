@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, welcome to the port where I interact with the world. 👋
+- 🔭 I’m currently working on AI Agents & Unified Models, and these are also what I'm currently learning.
+
 
 <!--
 **burgerIO-823/burgerIO-823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
