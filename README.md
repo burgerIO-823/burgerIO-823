@@ -1,5 +1,6 @@
 ## Hi there, welcome to the port 823, where I interact with the world. 👋
-- 🔭 I’m currently working on AI Agents & Unified Models, and these are also what I'm currently learning.
+- 🔭 I’m currently working on AI Agents & Diffusion Large Language Models.
+- 🌱 I’m currently learning on reinforcement learning in llms and dllms, aiming to boosting model abilities to apply them into reality chanllenges.
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img height="125px" src="https://github-readme-stats.vercel.app/api?username=burgerIO-823&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=A7BED3,C6D9EB,F1E4D3,BAD7DF,E0BBE4&theme=graywhite" />
